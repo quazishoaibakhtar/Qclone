@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Qclone/static/css/main.3e84a29f.css",
+    "main.js": "/Qclone/static/js/main.e6db440c.js",
+    "index.html": "/Qclone/index.html",
+    "main.3e84a29f.css.map": "/Qclone/static/css/main.3e84a29f.css.map",
+    "main.e6db440c.js.map": "/Qclone/static/js/main.e6db440c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e84a29f.css",
+    "static/js/main.e6db440c.js"
+  ]
+}
